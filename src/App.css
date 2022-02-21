@@ -1,0 +1,28 @@
+.pass-form{
+  margin-top: 5px;
+}
+
+.container{
+  padding: 75px;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+
+.check-form{
+  margin-top:10px ;
+}
+
+#img1{
+  width: 250px;
+  height: 250px;
+  align-items: center;
+  justify-content: center;
+}
+.center{
+  justify-content: center;
+  display: flex;
+}
